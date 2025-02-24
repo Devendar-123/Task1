@@ -1,0 +1,19 @@
+body{
+    background: #000;
+    color: aqua;
+}
+
+table{
+    border-collapse: collapse;
+    /* background: rgb(111, 110, 108); */
+}
+
+td,th{
+    border: 2px solid rgb(244, 254, 254);
+    padding: 8px;
+    border-radius: 2px;
+}
+
+h4{
+    text-align: center;
+}

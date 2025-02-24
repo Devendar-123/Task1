@@ -1,0 +1,31 @@
+body{
+    background-color: #000;
+    color: white;
+}
+
+.myForm{
+    background-color: orange;
+    margin-top: 50px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 40vw;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-top: 10px;
+    /* border: 2px solid yellow; */
+    box-shadow: 4px 4px 10px rgb(242, 243, 239);
+    border-radius: 10px;
+}
+
+.myForm input{
+    padding: 2px;
+}
+
+button{
+    width: 100px;
+    margin-left: 40px;
+    padding: 10px;
+    cursor: pointer;
+}
